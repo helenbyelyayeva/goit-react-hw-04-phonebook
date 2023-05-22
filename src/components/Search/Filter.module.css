@@ -1,0 +1,21 @@
+.search{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 15px;
+}
+.formLabel{
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.formInput{
+    font-size: 20px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #c322b9;
+    outline: none;
+}
